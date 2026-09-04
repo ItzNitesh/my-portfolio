@@ -1,3 +1,4 @@
+import React from 'react'
 import myCv from '/Nitesh_Gupta_Frontend_Developer_Resume.pdf'
 
 const About = () => {

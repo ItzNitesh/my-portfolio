@@ -2,6 +2,7 @@ import React from 'react'
 import developerImg from '/avatar-intro.png'
 import myCv from '/Nitesh_Gupta_Frontend_Developer_Resume.pdf'
 
+
 const HeroSection = () => {
     return (
         <>
