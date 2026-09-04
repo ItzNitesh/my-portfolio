@@ -192,6 +192,79 @@ const ProjectList = [
     },
 
   },
+
+
+  {
+    id: 12,
+    projectImg: "/project-img/e-commerce-react.png",
+    projectTitle: "E-commerce - Product Website",
+    projectpara: "Developed a responsive e-commerce website using React.js with dynamic product listings, category browsing, product details, and reusable components for a smooth user experience.",
+    projectUrl: "https://e-commerce-phi-five-48.vercel.app/",
+    projectlang: {
+      // lang1: "HTML",
+      // lang2: "CSS",
+      // lang3: "Bootstrap",
+      // lang4: "Tailwind CSS",
+      // lang5: "WordPress",
+      lang6: "React JS",
+      lang7: "JavaScript"
+    },
+
+  },
+
+  {
+    id: 13,
+    projectImg: "/project-img/blog-app.png",
+    projectTitle: "Blog App - Website",
+    projectpara: "Developed a responsive blog website using React.js with dynamic blog posts, category browsing, and reusable components for a clean and engaging user experience.",
+    projectUrl: "https://blog-app-six-eta-45.vercel.app/",
+    projectlang: {
+      // lang1: "HTML",
+      // lang2: "CSS",
+      // lang3: "Bootstrap",
+      // lang4: "Tailwind CSS",
+      // lang5: "WordPress",
+      lang6: "React JS",
+      lang7: "JavaScript"
+    },
+
+  },
+
+  {
+    id: 14,
+    projectImg: "/project-img/job-portal.png",
+    projectTitle: "Job Portal - Website",
+    projectpara: "Developed a responsive job portal using React.js with dynamic job listings, search and filtering features, and reusable components for a smooth user experience.",
+    projectUrl: "https://job-portal-nine-flax-48.vercel.app/",
+    projectlang: {
+      // lang1: "HTML",
+      // lang2: "CSS",
+      // lang3: "Bootstrap",
+      // lang4: "Tailwind CSS",
+      // lang5: "WordPress",
+      lang6: "React JS",
+      lang7: "JavaScript"
+    },
+
+  },
+
+  {
+    id: 15,
+    projectImg: "/project-img/expence-tracker.png",
+    projectTitle: "Expense Tracker - Website",
+    projectpara: "Developed a responsive expense tracker using React.js with income and expense management, transaction tracking, and reusable components for a simple and intuitive user experience.",
+    projectUrl: "https://itznitesh.github.io/expenceTracker/",
+    projectlang: {
+      // lang1: "HTML",
+      // lang2: "CSS",
+      // lang3: "Bootstrap",
+      // lang4: "Tailwind CSS",
+      // lang5: "WordPress",
+      lang6: "React JS",
+      lang7: "JavaScript"
+    },
+
+  },
 ]
 
 export default ProjectList
